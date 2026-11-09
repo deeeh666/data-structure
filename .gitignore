@@ -1,0 +1,18 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+
+# IDE 配置
+.idea/
+.vscode/
+*.suo
+*.user
+
+# 系统文件
+Thumbs.db
+.DS_Store
